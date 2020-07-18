@@ -1,16 +1,13 @@
-### Hi there 👋
+![Cristian Poley, Software Engineer and Lover JavaScript](https://github.com/cristianpoleyJS/cristianpoleyJS/raw/master/images/github-profile-header.gif)
 
-<!--
-**cristianpoleyJS/cristianpoleyJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World, I'm Cristian 👋🏽
+## Front-end Developer living in Madrid, Spain (but my heart is in Seville) 🇪🇸
 
-Here are some ideas to get you started:
+I love **building web applications**, specifically right now I'm focused on **Vue**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Sometimes I'm encouraged and I write things in my [Medium](https://medium.com/@cristianpoley):
+- [Utilizando?.optional?.chaining](https://medium.com/@cristianpoley/utilizando-optional-chaining-78cdbb7adee4)
+- [Vue & Firestore](https://medium.com/@cristianpoley/vue-firestore-5c05ab9260e4)
+- [Angular vs React](https://medium.com/@cristianpoley/angular-vs-react-e9221e26892d)
+
+## You can find out more about me on my [Personal Site](https://cristianpoley.com).
