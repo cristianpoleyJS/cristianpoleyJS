@@ -9,9 +9,9 @@ I love **building web applications** with JavaScript. I'm currently focused on *
 
 ## My lastest projects
 
+- [CrptoStatus](https://cryptostatus.vercel.app/)
 - [ProsVsContras](https://prosvscontras.app/)
 - [Calculator](https://calculator-frontendmentor.netlify.app/)
-- [Countdown](https://launch-countdown-timer-cristianpoleyjs.netlify.app)
 
 ## My latest articles
 ### 📝 Sometimes I'm encouraged and I write things in my [Medium](https://medium.com/@cristianpoley).
