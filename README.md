@@ -26,9 +26,9 @@ I love **building web applications** with JavaScript. I'm currently focused on *
 ## My latest articles 📝
 Sometimes I'm encouraged and I write things in my [Medium](https://medium.com/@cristianpoley).
 
+- [Map y Set en JavaScript](https://cristianpoley.medium.com/map-y-set-en-javascript-de216fd4dbdd)
 - [Frontend en 2021](https://cristianpoley.medium.com/frontend-en-2021-acdc3f9889bc)
 - [ECMAScript 2021](https://cristianpoley.medium.com/ecmascript-2021-17aaeb1d35c7)
 - [¿Está a la altura del anime? One Piece - Vue 3](https://octuweb.com/vue3/)
-- [Angular vs React](https://cristianpoley.medium.com/angular-vs-react-e9221e26892d)
 
 ### You can find out more about me on my [Personal Site](https://cristianpoley.com).
