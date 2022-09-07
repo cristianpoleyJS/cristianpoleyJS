@@ -14,7 +14,7 @@ I love **building web applications** with JavaScript. I'm currently focused on *
 ## My lastest projects 👨‍💻
 
 - [CryptoStatus](https://cryptostatus.vercel.app/)
-- [ProsVsContras](https://prosvscontras.app/)
+- [ProsVsContras](https://prosvscontras.vercel.app/)
 - [Calculator](https://calculator-frontendmentor.netlify.app/)
 
 ## My latest articles 📝
